@@ -4,5 +4,5 @@ usage:
 .PHONY: test
 
 test:
-	python mips32/Assembler.py
+	python mips32/Instruction.py -v
 
